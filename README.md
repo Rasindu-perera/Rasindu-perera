@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRmdHFmNWdrZDk2NTJybmxvcjY2ZGg4Mm9zZDNwNWJtcGVueDV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp"/>
+
 - 🌱 I’m currently learning **python |java |C#**
 
 - 🤝 I’m an undergraduate at **NSBM**
