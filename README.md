@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rasindu Pravishka</h1>
 <h3 align="center">Passionate IT Student In Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
+
 - 🌱 I’m currently learning **python |java |C#**
 
 - 🤝 I’m an undergraduate at **NSBM**
