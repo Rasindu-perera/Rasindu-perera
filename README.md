@@ -2,8 +2,7 @@
 <h3 align="center">Passionate IT Student In Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
----
-
+<p<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZxbGc3Z3ljZXZwam90bG42MGdpaWFmeWxtcDY4OXNjY2wwcHE3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.webp"/> </p>
 - 🌱 I’m currently learning **python |java |C#**
 
 - 🤝 I’m an undergraduate at **NSBM**
