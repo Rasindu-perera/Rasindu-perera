@@ -2,7 +2,7 @@
 <h3 align="center">Passionate IT Student In Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
-
+---
 - 🌱 I’m currently learning **python |java |C#**
 
 - 🤝 I’m an undergraduate at **NSBM**
@@ -12,7 +12,7 @@
 - 📫 How to reach me **abc1.rasindupapare@gmail.com**
 
 - ⚡ Fun fact **Call me as KWR**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rasindu82198290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasindu82198290" height="30" width="40" /></a>
