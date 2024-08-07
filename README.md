@@ -14,6 +14,19 @@
 
 - ⚡ Fun fact **Call me as KWR**
 ---
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasindu-perera&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rasindu-perera" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rasindu-perera&show_icons=true&theme=dark&locale=en" alt="Rasindu-perera" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasindu-perera&theme=dark" alt="Rasindu-perera" /></p>
+---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rasindu82198290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasindu82198290" height="30" width="40" /></a>
