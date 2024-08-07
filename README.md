@@ -4,7 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRmdHFmNWdrZDk2NTJybmxvcjY2ZGg4Mm9zZDNwNWJtcGVueDV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-- 🌱 I’m currently learning **python |java |C#**
+
+- 🌱 I’m currently learning **python | java |C#**
 
 - 🤝 I’m an undergraduate at **NSBM**
 
