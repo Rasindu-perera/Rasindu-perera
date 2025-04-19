@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **python | java |C#**
 
-- 🤝 I’m an undergraduate at **NSBM**
+- 🤝 I’m an software engineering undergraduate at **NSBM Green Univesity**
 
 - 💬 Ask me about **web development | python | SQL**
 
 - 📫 How to reach me **abc1.rasindupapare@gmail.com**
 
-- ⚡ Fun fact **Call me as KWR**
+- ⚡ Code name- **KWR**
 ---
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
