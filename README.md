@@ -55,33 +55,24 @@
 
 ## 🌐 Connect With Me
 
-<table align="center">
-<tr>
-<td>
-  <a href="https://twitter.com/rasindu82198290">
+<p align="center">
+  <a href="https://twitter.com/rasindu82198290" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-  </a>
-</td>
-<td width="20"></td>
-<td>
-  <a href="https://linkedin.com/in/w.k.r pravishka perera">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/w.k.r pravishka perera" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-</td>
-<td width="20"></td>
-<td>
-  <a href="https://fb.com/rasindu perera">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://fb.com/rasindu perera" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>
-</td>
-<td width="20"></td>
-<td>
-  <a href="https://instagram.com/rasindu.prawishka.18">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/rasindu.prawishka.18" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-</td>
-</tr>
-</table>
+</p>
+
 
 
 
