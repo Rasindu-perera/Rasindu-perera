@@ -57,21 +57,26 @@
 
 <p align="center">
   <a href="https://twitter.com/rasindu82198290" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         width="40" style="margin: 0 12px;" />
   </a>
-  
+
   <a href="https://linkedin.com/in/w.k.r pravishka perera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40" style="margin: 0 12px;" />
   </a>
-  
+
   <a href="https://fb.com/rasindu perera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         width="40" style="margin: 0 12px;" />
   </a>
-  
+
   <a href="https://instagram.com/rasindu.prawishka.18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         width="40" style="margin: 0 12px;" />
   </a>
 </p>
+
 
 ---
 
