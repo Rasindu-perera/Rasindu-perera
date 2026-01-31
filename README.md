@@ -31,6 +31,7 @@
 </p>
 
 <br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <!-- ✅ ADDED: GitHub Profile Summary Card -->
 <h3 align="center">GitHub Summary</h3>
