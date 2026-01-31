@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rasindu-perera&show_icons=true&theme=dark&locale=en" alt="Rasindu-perera" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasindu-perera&theme=dark" alt="coding" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasindu-perera&theme=dark" alt="Rasindu-perera" /></p>
 <br><br><br><br><br><br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
