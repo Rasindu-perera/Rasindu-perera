@@ -1,36 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rasindu Pravishka</h1>
-<h3 align="center">Passionate IT Student In Sri Lanka</h3>
+<h1 align="center">Hey 👋 I'm Rasindu Pravishka</h1>
+<h3 align="center">Software Engineering Undergraduate | Passionate IT Student 🇱🇰</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20views&color=0e75b6&style=flat" alt="rasindu-perera" /> </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRmdHFmNWdrZDk2NTJybmxvcjY2ZGg4Mm9zZDNwNWJtcGVueDV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-- 🌱 I’m currently learning **python | java |C#**
-
-- 🤝 I’m an software engineering undergraduate at **NSBM Green Univesity**
-
-- 💬 Ask me about **web development | python | SQL**
-
-- 📫 How to reach me **abc1.rasindupapare@gmail.com**
-
-- ⚡ Code name- **KWR**
----
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Rasindu-perera&theme=github-dark" alt="Rasindu-perera" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasindu-perera&theme=dark" alt="Rasindu-perera" /></p>
-<br><br><br><br><br><br><br><br>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/rasindu82198290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasindu82198290" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/w.k.r pravishka perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w.k.r pravishka perera" height="30" width="40" /></a>
-<a href="https://fb.com/rasindu perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasindu perera" height="30" width="40" /></a>
-<a href="https://instagram.com/rasindu.prawishka.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasindu.prawishka.18" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rasindu-perera&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="http://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 Currently learning **Python | Java | C#**
+- 🎓 Software Engineering Undergraduate at **NSBM Green University**
+- 💬 Ask me about **Web Development | Python | SQL**
+- 📫 Reach me at **abc1.rasindupapare@gmail.com**
+- ⚡ Code Name **KWR**
+
+---
+
+### 📊 GitHub Activity
+
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasindu-perera&theme=github-dark" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Rasindu-perera&theme=dark" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/rasindu82198290" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/w-k-r-pravishka-perera" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="https://facebook.com/rasindu.perera" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/rasindu.prawishka.18" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
